@@ -1,0 +1,49 @@
+@import url(https://rsms.me/inter/inter.css);
+
+* {
+    box-sizing: border-box;
+}
+
+#root, body, html, main {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+body {
+    color: #000;
+    font-family: serif;
+}
+
+.wrapper {
+    height: 432px;
+    padding: 50px;
+    -webkit-transform: scale(.5);
+    transform: scale(.5);
+    -webkit-transform-origin: top left;
+    transform-origin: top left;
+    width: 668px;
+}
+
+.content {
+    background: #f0f0f0;
+    border-radius: 3px;
+    height: 216px;
+    overflow: hidden;
+    width: 334px;
+}
+
+.main-text {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.25;
+    margin: 0;
+    padding: 0;
+}
+
+.main-table {
+    margin-top: 50px;
+}
+
+/*# sourceMappingURL=main.6f7ccc11.css.map*/
