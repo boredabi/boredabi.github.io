@@ -10,7 +10,6 @@ function StaticHtmlBody() {
     <h1>Abikrishnaa</h1>
     <p class="Abikrishnaa">
       2nd Year Mechanical Engineer<br />
-      react, go, python, c++, whatever
     </p>
     <table class="main-table">
       <tr>
